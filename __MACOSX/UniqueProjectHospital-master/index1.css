@@ -63,7 +63,7 @@ margin-left:10px;
 outline:none;
 border:none
 width: 50%;
-margin:10px;
+margin: 10px;
 font-size:1em;
 }
 .header-image img{
@@ -175,12 +175,8 @@ flex-wrap: wrap;
     margin-bottom:10px;
     justify-content:space-between;
     }
-    .Test{
-        background-color: brown;
-    }
-    .junaid{
-        background-color: brown;
-    }
+    
+    
     /*  Junaid : Creating the signup form */
     .Signup{
         text-decoration: none;
@@ -239,63 +235,3 @@ flex-wrap: wrap;
       .footer-links a:hover {
         text-decoration: underline;
       }
-/* Add Hospital Section */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-}
-
-.hospital-section {
-  background-color: #fff;
-  padding: 50px 0;
-  border-bottom: 2px solid #ddd;
-}
-
-.container {
-  width: 80%;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.section-title {
-  font-size: 36px;
-  color: #1d2d50;
-  margin-bottom: 20px;
-}
-
-.hospital-description {
-  font-size: 18px;
-  color: #555;
-  margin-bottom: 30px;
-}
-
-.services h3 {
-  font-size: 24px;
-  color: #1d2d50;
-  margin-bottom: 15px;
-}
-
-.service-list {
-  list-style-type: none;
-  padding: 0;
-}
-
-.service-list li {
-  font-size: 18px;
-  color: #333;
-  margin: 10px 0;
-}
-
-.service-list li:before {
-  content: "✔️";
-  margin-right: 10px;
-  color: #28a745;
-}
-
