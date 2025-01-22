@@ -239,12 +239,21 @@ flex-wrap: wrap;
       .footer-links a:hover {
         text-decoration: underline;
       }
+<<<<<<< HEAD
+/* Css for adding Hospital */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+=======
 /* Add Hospital Section */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+>>>>>>> 87c05d69185791a50e4b0893c063b051f34581b1
 
 body {
   font-family: Arial, sans-serif;
